@@ -1,1 +1,1 @@
-Please note that the theme has to be installed system-wide for the GTK4 theme to function properly.
+Please note that the theme HAS TO be installed system-wide for the GTK4 theme to function properly.
